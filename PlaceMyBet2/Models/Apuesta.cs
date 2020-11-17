@@ -17,7 +17,7 @@ namespace Api_PlaceMyBet.Models
         public int idMercado;
         public string usuarioEmail;
 
-        
+
 
         #endregion
 
@@ -87,6 +87,8 @@ namespace Api_PlaceMyBet.Models
         }
     }
 
+
+
     #region Clase Apuesta Argumentos       
 
     public class ApuestaArgumentos
@@ -107,10 +109,11 @@ namespace Api_PlaceMyBet.Models
         {
         }
     }
+    
 
     public class ApuestasPorTipoMercado
     {
-        
+
         public string tipoApuesta;
         public double cuota;
         public double dineroApostado;
@@ -127,6 +130,19 @@ namespace Api_PlaceMyBet.Models
         public ApuestasPorTipoMercado()
         {
         }
-    }        
+    }
+
+
+    
+
     #endregion
+
+    
+
+
+    
+
+
 }
+
+

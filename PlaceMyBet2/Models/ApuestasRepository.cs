@@ -1,5 +1,6 @@
 ﻿using Api_PlaceMyBet.Controllers;
 using MySql.Data.MySqlClient;
+using PlaceMyBet2.Models;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -218,9 +219,56 @@ namespace Api_PlaceMyBet.Models
             DataBaseRepository.CerrarConexion();
 
             return listaApuestas;
+        }
+
+        public ApuestaExamen apuestasPorEquipo(string equipo)
+        {
+
+            string consulta = string.Format("SELECT `eventos`.`local`, `eventos`.`visitante`, `apuestas`.`Dinero_Apostado` FROM `eventos`, `apuestas` WHERE `eventos`.`local` = '{0}' OR `eventos`.`visitante` = '{1}'; ",equipo,equipo);
+
+            List<ApuestaExamen> listaApuestas = new List<ApuestaExamen>();
+            ApuestaExamen apuesta = new ApuestaExamen();
+            double contadorDinero = 0;
+            string equipoMostrar = null;
+
+            MySqlConnection conexion = DataBaseRepository.Conexion;
+            MySqlCommand comand = new MySqlCommand(consulta, conexion);
+
+            DataBaseRepository.AbrirConexion();
+
+            MySqlDataReader resultado = comand.ExecuteReader();
+
+            if (resultado.HasRows)
+            {
+                while (resultado.Read())
+                {
+                    if (resultado.GetString(0) == equipo)
+                    {
+                        apuesta = new ApuestaExamen(resultado.GetString(1), (contadorDinero+= resultado.GetDouble(2)));
+                        
+                        equipoMostrar = resultado.GetString(1);
+                        listaApuestas.Add(apuesta);
+                        
+
+                    }
+                    else {
+                        apuesta = new ApuestaExamen(resultado.GetString(0), contadorDinero+=resultado.GetDouble(2));
+                        equipoMostrar = resultado.GetString(0);
+                        listaApuestas.Add(apuesta);
+
+                    }
+                    contadorDinero += resultado.GetDouble(2);
+                    
+                }
+
+            }
+            DataBaseRepository.CerrarConexion();
+            
+
+            return apuesta = new ApuestaExamen(equipoMostrar,contadorDinero);
 
 
-
+            
 
         }
 
