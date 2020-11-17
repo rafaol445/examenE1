@@ -10,13 +10,13 @@ namespace Api_PlaceMyBet.Controllers
 {
     public class EventosController : ApiController
     {
-        EventosRepository evento = new EventosRepository();
+        EventosRepository eventoRepository = new EventosRepository();
 
         // GET: api/Eventos
         public IEnumerable<EventoDto> Get()
         {
             
-            return evento.RetriveDTO();
+            return eventoRepository.RetriveDTO();
 
 
         }
@@ -28,8 +28,10 @@ namespace Api_PlaceMyBet.Controllers
         }
 
         // POST: api/Eventos
-        public void Post([FromBody]string value)
+        public void Post([FromBody]EventoExamen evento)
         {
+            eventoRepository.insertarEvento(evento);
+
         }
 
         // PUT: api/Eventos/5

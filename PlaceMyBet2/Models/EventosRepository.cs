@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Diagnostics;
 
 namespace Api_PlaceMyBet.Models
 {
@@ -95,6 +96,40 @@ namespace Api_PlaceMyBet.Models
 
 
             return listaEventos;
+        }
+
+        public void insertarEvento(EventoExamen evento)
+        {
+            MercadosRepository mercado = new MercadosRepository();
+
+            string consulta = string.Format("INSERT INTO `eventos` (`idEvento`, `local`, `visitante`, `fecha`) VALUES ('{0}', '{1}', '{2}', '{3}');", evento.idEvento, evento.local, evento.visitante, DateTime.Now.ToString("yyyy/MM/dd HH:mm:ss"));
+
+            MySqlConnection conexion = DataBaseRepository.Conexion;
+            MySqlCommand comand = new MySqlCommand(consulta, conexion);
+
+            DataBaseRepository.AbrirConexion();
+
+            int retorno = comand.ExecuteNonQuery();
+
+            if (retorno > 0)
+            {
+                Debug.WriteLine("evento insertado");
+                DataBaseRepository.CerrarConexion();
+
+                mercado.InsertarMercado(evento.idEvento, evento.tipoMercado);
+
+            }
+            else { Debug.WriteLine("evento no insertado"); }
+
+            
+
+
+
+
+
+
+
+
         }
 
 

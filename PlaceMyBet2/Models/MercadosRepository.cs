@@ -6,6 +6,7 @@ using System.Globalization;
 using System.Linq;
 using System.Runtime.Remoting.Messaging;
 using System.Web;
+using System.Diagnostics;
 
 namespace Api_PlaceMyBet.Models
 {
@@ -150,6 +151,34 @@ namespace Api_PlaceMyBet.Models
 
             DataBaseRepository.CerrarConexion();
         }
+
+        internal void InsertarMercado(int idEvento, double tipoMercado)
+        {
+            metodoComas();
+            double probabilidadOver = calcularProbabilidad(100, 100);
+            double probabilidadUnder = calcularProbabilidad(100,100);
+            double cuotaOver = calcularCuota(probabilidadOver, 0.95);
+            double cuotaUnder = calcularCuota(probabilidadUnder, 0.95);
+            metodoComas();
+
+            string consulta = string.Format("INSERT INTO `mercados` (`idMercado`, `Tipo_Over_Under`, `Cuota_Over`, `Cuota_Under`, `Dinero_Over`, `Dinero_Under`, `EVENTOS_idEvento`) VALUES (NULL, '{0}', '{1}', '{2}', '100', '100', '{3}'); ", tipoMercado, cuotaOver, cuotaUnder,idEvento);
+            MySqlConnection conexion = DataBaseRepository.Conexion;
+            MySqlCommand comand = new MySqlCommand(consulta, conexion);
+
+            
+
+            DataBaseRepository.AbrirConexion();
+
+            int retorno = comand.ExecuteNonQuery();
+
+            if (retorno > 0)
+            {
+                Debug.WriteLine("mercado insertado");
+            }
+            else { Debug.WriteLine("mercado no insertado"); }
+            DataBaseRepository.CerrarConexion();
+        }
+
 
         internal Mercado ObtenerMercado(int idMercado) {
 

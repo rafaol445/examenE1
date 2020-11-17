@@ -28,6 +28,7 @@ namespace Api_PlaceMyBet.Models
         }
         #endregion
     }
+
 }
 public class EventoDto {
 
@@ -49,7 +50,30 @@ public class EventoDto {
     {
     }
 
+    
+
 
 
 
 }
+public class EventoExamen
+{
+    public int idEvento;
+    public string local;
+    public string visitante;
+    public double tipoMercado;
+
+    public EventoExamen(int idEvento, string local, string visitante, double tipoMercado)
+    {
+        this.idEvento = idEvento;
+        this.local = local;
+        this.visitante = visitante;
+        this.tipoMercado = tipoMercado;
+    }
+
+    public EventoExamen()
+    {
+    }
+}
+
+
