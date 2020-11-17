@@ -1,0 +1,231 @@
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\obj\Debug\PlaceMyBet2.csprojAssemblyReference.cache
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\obj\Debug\PlaceMyBet2.csproj.CoreCompileInputs.cache
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\PlaceMyBet2.dll.config
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\PlaceMyBet2.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\PlaceMyBet2.pdb
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\csc.exe
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\csc.exe.config
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\csc.rsp
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\csi.exe
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\csi.exe.config
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\csi.rsp
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\Microsoft.CodeAnalysis.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\Microsoft.CSharp.Core.targets
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\Microsoft.Managed.Core.targets
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\Microsoft.Win32.Primitives.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.AppContext.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.Collections.Immutable.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.Console.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.Diagnostics.StackTrace.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.Globalization.Calendars.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.IO.Compression.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.IO.Compression.ZipFile.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.IO.FileSystem.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.Net.Sockets.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.Reflection.Metadata.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.Text.Encoding.CodePages.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.ValueTuple.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.Xml.ReaderWriter.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.Xml.XmlDocument.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.Xml.XPath.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\System.Xml.XPath.XDocument.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\vbc.exe
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\vbc.exe.config
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\vbc.rsp
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\VBCSCompiler.exe
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\roslyn\VBCSCompiler.exe.config
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\Google.Protobuf.pdb
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\Google.Protobuf.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\K4os.Compression.LZ4.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\K4os.Compression.LZ4.Streams.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\K4os.Hash.xxHash.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\MySql.Data.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\Renci.SshNet.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\System.Buffers.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\System.Memory.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\System.Numerics.Vectors.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\System.Runtime.CompilerServices.Unsafe.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\Newtonsoft.Json.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\System.Net.Http.Formatting.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\System.Web.Helpers.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\System.Web.Http.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\System.Web.Http.WebHost.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\System.Web.Mvc.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\System.Web.Optimization.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\System.Web.Razor.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\System.Web.WebPages.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\System.Web.WebPages.Deployment.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\System.Web.WebPages.Razor.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\Antlr3.Runtime.pdb
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\EntityFramework.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\EntityFramework.SqlServer.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\Microsoft.AspNet.Identity.Core.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\Microsoft.AspNet.Identity.Owin.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\Microsoft.Owin.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\Microsoft.Owin.Host.SystemWeb.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\Microsoft.Owin.Security.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\Microsoft.Owin.Security.Cookies.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\Microsoft.Owin.Security.Google.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\Microsoft.Owin.Security.Twitter.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\Microsoft.Owin.Security.OAuth.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\System.Web.Http.Owin.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\es\System.Net.Http.Formatting.resources.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\es\System.Web.Helpers.resources.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\es\System.Web.Http.resources.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\es\System.Web.Http.WebHost.resources.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\es\System.Web.Mvc.resources.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\es\System.Web.Optimization.resources.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\es\System.Web.Razor.resources.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\es\System.Web.WebPages.resources.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\es\System.Web.WebPages.Deployment.resources.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\es\System.Web.WebPages.Razor.resources.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\es\EntityFramework.resources.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\es\EntityFramework.SqlServer.resources.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\es\Microsoft.Owin.resources.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\es\Microsoft.Owin.Security.resources.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\es\Microsoft.Owin.Security.Google.resources.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\bin\es\System.Web.Http.Owin.resources.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\obj\Debug\PlaceMyBet2.csproj.CopyComplete
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\obj\Debug\PlaceMyBet2.dll
+B:\2 DAM\A. Datos\PlaceMyBet\PlaceMyBet2\obj\Debug\PlaceMyBet2.pdb
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\PlaceMyBet2.dll.config
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\PlaceMyBet2.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\PlaceMyBet2.pdb
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\csc.exe
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\csc.exe.config
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\csc.rsp
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\csi.exe
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\csi.exe.config
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\csi.rsp
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.AppContext.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.Console.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\vbc.exe
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\vbc.exe.config
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\vbc.rsp
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\Google.Protobuf.pdb
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\Google.Protobuf.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\K4os.Compression.LZ4.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\K4os.Hash.xxHash.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\MySql.Data.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\Renci.SshNet.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\System.Buffers.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\System.Memory.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\System.Numerics.Vectors.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\Newtonsoft.Json.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\System.Net.Http.Formatting.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\System.Web.Helpers.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\System.Web.Http.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\System.Web.Http.WebHost.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\System.Web.Mvc.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\System.Web.Optimization.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\System.Web.Razor.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\System.Web.WebPages.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\Antlr3.Runtime.pdb
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\EntityFramework.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\EntityFramework.SqlServer.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\Microsoft.Owin.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\Microsoft.Owin.Security.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\System.Web.Http.Owin.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\es\System.Web.Http.resources.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\es\System.Web.Razor.resources.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\es\EntityFramework.resources.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\bin\es\System.Web.Http.Owin.resources.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\obj\Debug\PlaceMyBet2.csprojAssemblyReference.cache
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\obj\Debug\PlaceMyBet2.csproj.CopyComplete
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\obj\Debug\PlaceMyBet2.dll
+C:\Users\Rafa\Desktop\accesoDatos\PlaceMyBet2\obj\Debug\PlaceMyBet2.pdb
