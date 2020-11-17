@@ -152,6 +152,7 @@ namespace Api_PlaceMyBet.Models
             DataBaseRepository.CerrarConexion();
         }
 
+        // metodo ejercicio 2
         internal void InsertarMercado(int idEvento, double tipoMercado)
         {
             metodoComas();
